@@ -11,6 +11,9 @@
   <p> In the flood of protestors, one little-known journalist from the opposite end of the country was arrested and accused of orchestrating the massive protest effort. </p>
  <p> More than a year and a half later, Kappan sits in a Lucknow jail awaiting a trial."</p>
  
+ <h2><a href="https://vimeo.com/653807177"> CAKE Society Co. affirms the identities of gender-expansive community members through clothing </a></h2>
+ <p>"CAKE Society Co, an organization serving gender-expansive people in the DMV area, especially POC, made an emotional impact on the Arlington community with their November gender-affirming clothing exchange."</p>
+ 
  <h2><a href="https://cnsmaryland.org/2023/04/11/nasa-ready-to-try-out-1700-square-foot-mars-habitat-in-year-long-earth-bound-mission/">NASA ready to try out 1,700-square-foot Mars habitat in year-long Earth-bound mission</a></h2>
 <p>"A team of four crew members soon will embark on a groundbreaking one-year mission inside a Mars simulated habitat at NASA’s Johnson Space Center this summer as part of the agency’s preparations for future human missions to the red planet."</p>
 
