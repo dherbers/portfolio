@@ -34,8 +34,3 @@
 
 ![Lighthouses](https://user-images.githubusercontent.com/89993348/230167633-bbde2a55-321e-4545-91d4-5ee160606e8a.png)
 <p>This illustration shows the number of historical lighthouses built in the UK across several centuries using a bar chart built with Flourish. A small scale near the lighthouse shows the furthest nighttime reach compared to the average nighttime reach.</p>
-
-
-![Maryland_county_map](https://user-images.githubusercontent.com/89993348/230167989-b62d473c-5bc3-455a-8924-7ed3d06f65f7.png)
-<p>This illustration shows opiod deaths in Maryland using a choropleth map built with Flourish. Smaller pie charts illustrate the percent of opiod deaths caused by fentanyl in key counties.</p>
-
